@@ -1,0 +1,30 @@
+body {
+    background-color: #ffffff;
+}
+
+.logo {
+   font-family:"Ubuntu", "Arial" sans-serif;
+   width: 59px;
+   height: 23px;
+   font-weight: 300;
+   font-size: 20px;
+   line-height: 22.98px;
+   color: #333333;
+   margin-top: 29px;
+   margin-left: 165px;
+   margin-bottom: 29px;
+   margin-right: 1135px;
+}
+
+.cite-navigation {
+    list-style: none;
+    margin-left: 601px;
+    margin-right: 165px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    column-gap: 60px;
+}
+
+li {
+    display: inline;
+}
